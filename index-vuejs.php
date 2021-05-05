@@ -1,11 +1,16 @@
 <?php include __DIR__ . '/partials/template/head.php'; ?>
 
-<?php include __DIR__ . '/partials/template/header.php'; ?>
 
 
 
 
 
+<body>
+
+    <div id="app" class="container">
+
+    <?php include __DIR__ . '/partials/template/header.php'; ?>
+      
 
       <main>
         <div class="albums-row">

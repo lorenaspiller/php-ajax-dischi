@@ -1,6 +1,3 @@
-<body>
-
-    <div id="app" class="container">
-      <header>
+<header>
         <img class="logo" src="img/download.png" alt="">
-      </header>
+</header>
