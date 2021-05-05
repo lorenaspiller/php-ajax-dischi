@@ -2,9 +2,6 @@
 
 
 
-
-
-
 <body>
 
     <div id="app" class="container">
